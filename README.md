@@ -26,6 +26,8 @@ The project aims to implement a new feature that will improve the overall user e
 
 The project will be developed using the following language(s):
 
+C#
+
 
 
 The project will use the following build system:
