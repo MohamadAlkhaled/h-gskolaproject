@@ -9,7 +9,7 @@ A group of two students have teamed up to create a project.
 |       |           |
 |  | |
 
-  git
+
 ## Declaration
 
  I, Mohamad Alkhaled, declare that I am the sole author of the content I add to this repository.
@@ -25,6 +25,8 @@ The project aims to implement a new feature that will improve the overall user e
 
 
 The project will be developed using the following language(s):
+
+C#
 
 
 
