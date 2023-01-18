@@ -1,5 +1,31 @@
-# h-gskolaproject
-My second repository on github
-## Group Members:
+# A game 
 A group of two students have teamed up to create a project.
-Mohamad Alkhaled.
+## Group Members:
+| Name             | Github handle     |
+|------------------|-------------------|
+|   |        |
+|  |   |
+| Mohamad Alkhaled | Mohamadalkhaled   |
+|       |           |
+|  | |
+
+  git
+## Declaration
+
+ I, Mohamad Alkhaled, declare that I am the sole author of the content I add to this repository.
+
+ 
+## Plan
+
+The project aims to implement a new feature that will improve the overall user experience. The new feature will work by allowing users to interact with the application in a more intuitive way. The project will have the following features:
+
+
+
+
+
+
+The project will be developed using the following language(s):
+
+
+
+The project will use the following build system:
