@@ -27,9 +27,11 @@ you can ru  the unit test by typing  in command line.
 
 or you include
 
-``python
-`if __name__ == '__main__':
-    unittest.main()```
+```
+python`
+if __name__ == '__main__':
+    unittest.main()
+```
 
 
 
