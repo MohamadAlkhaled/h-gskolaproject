@@ -20,7 +20,10 @@ A group of two students have teamed up to create a project.
 The project aims to implement a new feature that will improve the overall user experience. The new feature will work by allowing users to interact with the application in a more intuitive way. The project will have the following features:
 
 
+# running unit test
+you can ru  the unit test by typing  in command line.
 
+-ptyhon test.py in command line.
 
 
 
