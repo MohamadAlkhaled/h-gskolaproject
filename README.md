@@ -23,7 +23,12 @@ The project aims to implement a new feature that will improve the overall user e
 # running unit test
 you can ru  the unit test by typing  in command line.
 
--ptyhon test.py in command line.
+ptyhon test.py 
+
+or you include
+
+if __name__ == '__main__':
+    unittest.main()
 
 
 
