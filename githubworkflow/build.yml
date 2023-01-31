@@ -1,9 +1,7 @@
-name: CI
+name: CI workflow
 
-on:
-  push:
-    branches: [ main ]
-
+on: [push, pull]
+  
 jobs:
   build:
     runs-on: ubuntu-latest
